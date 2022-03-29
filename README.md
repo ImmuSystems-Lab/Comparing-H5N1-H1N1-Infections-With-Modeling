@@ -17,15 +17,15 @@ This repository consists of example code to recreate the figures present in the 
 Figure 1 (model schematic), Figure 2 (Basinhopping screening), Figure 3 (parameter sensitivity), and Figure 6 (parameter distribution) are straightforward plotting of results from existing packages and are thus excluded.
 
 ### Figure 4
-![Figure 4](/Plotting/Fig 4 - AD,NSSD Model 4 Fits/Fig 4.png)
+![Figure 4](/Plotting/Fig%204%20-%20AD%2CNSSD%20Model%204%20Fits/Fig%204.png)
 Model 4 output for minimum energy parameter set (lines) and corresponding training data (markers) for H1N1 (top row) and H5N1 (bottom row). AD results (all parameters allowed to independently estimate across strains) are shown in black and NSSD results (all parameters shared between strains) are shown in blue. Intervals represent the standard deviation of the 1,000 lowest energy parameter sets. Data from Shoemaker et al [^6] are shown with the standard deviation associated with triplicate data points per timepoint.
 
 ### Figure 5
-![Figure 5](/Plotting/Fig 5 - Model 4 OSSD Fits/Fig 5.png)
+![Figure 5](/Plotting/Fig%205%20-%20Model%204%20OSSD%20Fits/Fig%205.png)
 Model 4 output for the minimum energy parameter set (line) for OSSD parameterizations and corresponding training data (markers) for H1N1 (top row) and H5N1 (bottom row). Data from Shoemaker et al [^6] are shown with the standard deviation associated with triplicate data points per timepoint.
 
 ### Figure 7
-![Figure 7](/Plotting/Fig 7 - Model 4 v+ Fits/Fig 7.png)
+![Figure 7](/Plotting/Fig%207%20-%20Model%204%20v%2B%20Fits/Fig%207.png)
 Model 4 output for minimum energy parameter set (line) for virus related parameter independent (V) and corresponding training data (markers) for H1N1 (top row) and H5N1 (bottom row). Data from Shoemaker et al [^6] are shown with the standard error associated with triplicate data points per timepoint.
 
 [^6]: [doi:10.1371/journal.ppat.1004856](https://doi:10.1371/journal.ppat.1004856)
