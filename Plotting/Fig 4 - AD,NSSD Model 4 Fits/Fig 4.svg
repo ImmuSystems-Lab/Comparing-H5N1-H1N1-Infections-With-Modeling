@@ -6,8 +6,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="Fig X2.svg"
-   inkscape:export-filename="C:\Users\Jordan Weaver\OneDrive - University of Pittsburgh\Projects\H5N1 vs H1N1 host dynamics Ackerman Weaver\Revisions\Macrophage Rewrite\Figures\Fig X2 - AD,NSSD Model 4 Fits\Fig X2.png"
+   sodipodi:docname="Fig 4.svg"
+   inkscape:export-filename="C:\Users\Jordan Weaver\Desktop\Macrophage_Model\Plotting\Fig 4 - AD,NSSD Model 4 Fits\Fig 4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,21 +31,21 @@
   </metadata>
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.5001963"
-     inkscape:cx="840.88994"
-     inkscape:cy="445.60834"
+     inkscape:zoom="0.75009815"
+     inkscape:cx="729.90448"
+     inkscape:cy="533.93013"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1072"
@@ -192,7 +192,7 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan6355">NSSD</tspan></text>
+             id="tspan166">NSSD</tspan></text>
         <text
            transform="matrix(1,0,0,-1,12.984297,-2.315625)"
            style="font-variant:normal;font-weight:normal;font-size:14px;font-family:DejaVuSerif;-inkscape-font-specification:DejaVuSerif;writing-mode:lr-tb;white-space:pre;inline-size:90.954;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -214,7 +214,7 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan6357">AD</tspan></text>
+             id="tspan168">AD</tspan></text>
       </g>
       <g
          id="g4712-2"
@@ -226,9 +226,9 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan6361"><tspan
+             id="tspan172"><tspan
                style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
-               id="tspan6359">Shoemaker et al</tspan></tspan></text>
+               id="tspan170">Shoemaker et al</tspan></tspan></text>
       </g>
       <g
          id="g6544-3"
