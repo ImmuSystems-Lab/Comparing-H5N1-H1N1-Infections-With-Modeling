@@ -26,7 +26,7 @@ Model 4 output for the minimum energy parameter set (line) for OSSD parameteriza
 
 ### Figure 7
 ![Figure 7](/Plotting/Fig%207%20-%20Model%204%20v%2B%20Fits/Fig%207.png)
-Model 4 output for minimum energy parameter set (line) for virus related parameter independent (V) and corresponding training data (markers) for H1N1 (top row) and H5N1 (bottom row). Data from Shoemaker et al [^6] are shown with the standard error associated with triplicate data points per timepoint.
+Model 4 output for minimum energy parameter set (line) for virus related parameter independent (V) and corresponding training data (markers) for H1N1 (top row) and H5N1 (bottom row). Data from Shoemaker et al [^6] are shown with the standard error associated with triplicate data points per timepoint.The code for this figure is the same as Figure 5, with different parameter values.
 
 [^6]: [doi:10.1371/journal.ppat.1004856](https://doi:10.1371/journal.ppat.1004856)
 
