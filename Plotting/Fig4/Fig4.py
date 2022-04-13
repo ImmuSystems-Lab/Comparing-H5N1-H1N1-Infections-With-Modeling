@@ -12,17 +12,23 @@ from scipy.integrate import odeint
 import scipy.stats as stats
 
 # load data
-tvec = np.genfromtxt('../data/data_h1n1_logged.csv', usecols = 0, delimiter = ',',
+tvec = np.genfromtxt('../data/data_h1n1_logged.csv', usecols = 1, delimiter = ',',
                      skip_header = 1) # timepoints
-data1 = np.genfromtxt('../data/data_h1n1_logged.csv', usecols = [1,2,3,4], delimiter = ',',
+
+
+data1 = np.genfromtxt('../data/data_h1n1_logged.csv', usecols = [2,3,4], delimiter = ',',
                      skip_header = 1) # data
 
-std1 =  np.genfromtxt('../data/std_h1n1_logged.csv', usecols = [1,2,3,4], delimiter = ',',
+
+
+std1 =  np.genfromtxt('../data/std_h1n1_logged.csv', usecols = [1,2,3], delimiter = ',',
                      skip_header = 1)#std dev of data
-data5 = np.genfromtxt('../data/data_h5n1_logged.csv', usecols = [1,2,3,4], delimiter = ',',
+
+
+data5 = np.genfromtxt('../data/data_h5n1_logged.csv', usecols = [2,3,4], delimiter = ',',
                      skip_header = 1) # data
 
-std5 =  np.genfromtxt('../data/std_h5n1_logged.csv', usecols = [1,2,3,4], delimiter = ',',
+std5 =  np.genfromtxt('../data/std_h5n1_logged.csv', usecols = [1,2,3], delimiter = ',',
                      skip_header = 1)#std dev of data
 
 ic =  np.genfromtxt('../data/logged_4state_init.csv', usecols = [2,3,4], delimiter = ',',
